@@ -1,5 +1,5 @@
 ﻿//Oppgave 1
-Console.WriteLine("Oppgave 1:");
+Console.WriteLine("Oppgave 1:\n");
 void forLoop()
 {
 
@@ -12,10 +12,11 @@ forLoop();
 
 
 Console.WriteLine();
+Console.WriteLine("...................................................\n");
 
 
 //Oppgave 2
-Console.WriteLine("Oppgave 2:");
+Console.WriteLine("Oppgave 2:\n");
 void forEachLoop()
 {
     string array = "Hei på deg";
@@ -29,10 +30,11 @@ forEachLoop();
 
 
 Console.WriteLine();
+Console.WriteLine("...................................................\n");
 
 
 //Oppgave 3
-Console.WriteLine("Oppgave 3:");
+Console.WriteLine("Oppgave 3:\n");
 void whileLoop()
 {
     int i = 0;
